@@ -10,7 +10,9 @@ This way the company can target the right customers when advertising available o
 - Conclusion and Observation
 # Dataset
 This dataset was gotten from Kaggle and can be accessed via https://www.kaggle.com/imakash3011/customer-personality-analysis
-Attributes
+
+
+# Attributes
 
 ## People
 - ID: Customer's unique identifier
