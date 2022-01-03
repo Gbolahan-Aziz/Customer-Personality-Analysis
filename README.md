@@ -1,6 +1,5 @@
 # Customer-Personality-Analysis
-![GitHub repo size](https://img.shields.io/github/repo-size/Gbolahan-Aziz/Customer-Personality-Analysis) https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2FGbolahan_Aziz
-
+![GitHub repo size](https://img.shields.io/github/repo-size/Gbolahan-Aziz/Customer-Personality-Analysis) ![Tweet](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2FGbolahan_Aziz)
 This project involves using clustering alogrithm to cluster customer into segments, using the segments to better understand the customer.
 This way the company can target the right customers when advertising available or new products
 # Approach to solving this problem
